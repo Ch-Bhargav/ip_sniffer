@@ -1,7 +1,3 @@
-Certainly! Here's an example of a GitHub README file for your IP Sniffer Rust program:
-
----
-
 # IP Sniffer
 
 IP Sniffer is a simple command-line tool written in Rust for scanning open ports on a given IP address using multiple threads. It supports specifying the number of threads for parallel scanning.
@@ -50,5 +46,3 @@ cargo build --release
 Feel free to modify and extend the code for your specific needs. Happy scanning!
 
 ---
-
-Copy this content into a file named `README.md` in the root of your GitHub repository. You can customize it further based on your project's specific details and features.
